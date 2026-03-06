@@ -1,3 +1,10 @@
+/*
+Write a function that takes as argument an array of integers and the size of the array 
+and returns the average of the input values. 
+float = avrg(int * array, int size)
+*/
+
+
 #include <iostream>
 using namespace std;
 
